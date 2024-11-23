@@ -22,7 +22,7 @@ static SensorResult sensorResult;
 Color _red = {255, 0, 0};
 Color _green = {0, 255, 0};
 Color _blue = {0, 0, 255};
-Color _yellow = {255, 25, 0};
+Color _yellow = {200, 255, 0};
 Color _black = {0, 0, 0};
 
 bool sdError = false;

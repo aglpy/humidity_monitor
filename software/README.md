@@ -15,8 +15,8 @@ This directory contains the source code for the Temperature and Humidity Monitor
 2. **Clone the Repository**: Clone this repository to your local machine or download the zip file and extract it.
 
     ```bash
-    git clone https://github.com/yourusername/Temperature-Humidity-Monitor.git
-    cd Temperature-Humidity-Monitor/software
+    git clone https://github.com/aglpy/humidity_monitor.git
+    cd humidity_monitor/software
     ```
 
 3. **Library Dependencies**: The following libraries are needed for this project. Ensure they are installed:
